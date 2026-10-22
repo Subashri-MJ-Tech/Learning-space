@@ -27,8 +27,8 @@ Welcome to my Java & Programming learning space! In this guide, we will break do
     value:a=11,b=5(we assign it)
 
   ⁂Each and every variable must be separated by commas(,).
-            varname1,varname2,.....varnamen;
-            a,b,c;->Valid declaration.
+           varname1,varname2,.....varnamen;
+           a,b,c;->Valid declaration.
 
   ⁂ No white and blank space are allowed.
          Example:
